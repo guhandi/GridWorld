@@ -1,2 +1,2 @@
 # GridWorld
-Using RL determine state/action policy and generate traces in the environment
+Using reinforcement learning to determine state/action values based on various policies. Different monte carlo methods implemented and results compared with plots. 
