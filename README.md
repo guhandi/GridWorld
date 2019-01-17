@@ -7,7 +7,7 @@ with p probability of successful transition and returns the full MDP information
 
 # GridWorldRL()
 Runs the RL algorithm to and uses the value function in various applications. 
-Contains all the necessary function:
+Contains all the necessary functions:
   - PolicyEvaluation
   - Traces
   - MonteCarlo Policy Evaluation
